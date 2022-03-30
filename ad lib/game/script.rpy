@@ -7,7 +7,7 @@
 #someone needs to add a file to images called "object pogger.png.jpg"
 
 #Person 1
-default charName1 = ""
+default charName1 = "pikachu"
 default adjective1 = ""
 default age = 0
 default number = 0
