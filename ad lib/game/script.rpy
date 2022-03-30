@@ -43,12 +43,12 @@ default object = ""
 default strongEmotion4 = ""
 
 #Lucas
-default emotionalVerb = "Past tense, ex) liked or disliked"
-default response = "Write out a message that a character would say in response to something. Make it long if possible :D"
-default emotionalAdjective2 = ""
-default object2 = ""
-default verb2 = "present tense"
-default relationship2 = ""
+default emotionalVerb = "disliked"
+default response = "If this happen my final grade will be a D"
+default emotionalAdjective2 = "shy"
+default object2 = "spoon"
+default verb2 = "strike"
+default relationship2 = "friend"
 
 
 default currentAge = age + number
