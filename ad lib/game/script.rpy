@@ -18,11 +18,11 @@ default location = ""
 
 #Ritvik
 #someone needs to add a file to images called "char1 pogger.png/jpg"
-default timeOfDay = "afternoon"
-default season = ""
-default relationship = "singular"
-default activity = "present tense"
-default charName2 = ""
+default timeOfDay = "Morning"
+default season = "Summer"
+default relationship = "Boyfriend"
+default activity = "hike"
+default charName2 = "Senator Armstrong"
 
 #Frank
 #someone needs to add a file to images called "char2 pogger.png/jpg"
