@@ -27,11 +27,11 @@ default charName2 = ""
 #Frank
 #someone needs to add a file to images called "char2 pogger.png/jpg"
 
-default emotionNoun = ""
-default emotionNoun2 = ""
-default emotionNoun3 = ""
-default material = ""
-default verb = "pastTense"
+default emotionNoun = "Flabbergasted"
+default emotionNoun2 = "Depressed"
+default emotionNoun3 = "Furious"
+default material = "BRICK"
+default verb = "shot"
 
 #Ethan
 #someone needs to add a file to images called "object pogger.png.jpg"
