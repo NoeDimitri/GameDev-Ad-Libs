@@ -1,11 +1,18 @@
-﻿# The script of the game goes in this file.
+﻿#Aight gamers find the section youre assigned to and add in whatever you want
+#to each of the strings
 
-# Declare characters used by this game. The color argument colorizes the
-# name of the character.
+#Person 1
+default charName = ""
+default adjective = ""
+default numberCheck = 12
 
-default charName = "poggers"
-default adjective = "stanky"
+#Person 2
+default charName2 = ""
+default adjective2 = ""
 
+#Person 3
+default charName3 = ""
+default adjective3 = ""
 
 define e = Character("[charName]")
 
@@ -31,7 +38,7 @@ label start:
 
     # These display lines of dialogue.
 
-    e "why did this not work [adjective]"
+    e "why did this not work [numberCheck]"
 
     # This ends the game.
 
