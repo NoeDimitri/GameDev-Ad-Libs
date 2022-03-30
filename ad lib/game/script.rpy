@@ -5,6 +5,7 @@
 #someone needs to add a file to images called "char1 pogger.png/jpg"
 #someone needs to add a file to images called "char2 pogger.png/jpg"
 #someone needs to add a file to images called "object pogger.png.jpg"
+#Hello world
 
 #5 people
 
