@@ -1,0 +1,43 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 4: end of line expected.
+(Perhaps you left out a " at the end of the first line.)
+    """
+    #Person 1
+    default charName1 = ""
+    default adjective1 = ""
+     ^
+    default age = 0
+    default number = 0
+    default location = ""
+    default timeOfDay = "afternoon"
+    default season = ""
+    default relationship = "singular"
+    default activity = "present tense"
+    
+    #Person 2
+    default charName2 = ""
+    default emotionNoun = ""
+    default emotionNoun2 = ""
+    default emotionVerb = "pastTense"
+    
+    default material = ""
+    
+    default verb = "pastTense"
+    
+    #Person 3
+    
+    default currentAge = age + number
+    
+    default relative = ""
+    default accident = ""
+    
+    default excitedReponse = "Write out a full message, instead of just one word, kinda like this message"
+    
+    default object = ""
+    """
+
+Ren'Py Version: Ren'Py 7.4.11.2266
+Wed Mar 30 11:35:39 2022
