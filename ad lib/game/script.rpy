@@ -10,11 +10,11 @@
 
 #Julia
 #add a file to images called "bg room.jpg/png" to image
-default charName1 = ""
-default adjective1 = ""
-default age = 0
-default number = 0
-default location = ""
+default charName1 = "Justin"
+default adjective1 = "epic"
+default age = 39
+default number = 69
+default location = "Wendys"
 
 #Ritvik
 #someone needs to add a file to images called "char1 pogger.png/jpg"
