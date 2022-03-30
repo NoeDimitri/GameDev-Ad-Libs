@@ -6,40 +6,52 @@
 #someone needs to add a file to images called "char2 pogger.png/jpg"
 #someone needs to add a file to images called "object pogger.png.jpg"
 
-#Person 1
-default charName1 = "pikachu"
+#5 people
+
+#Julia
+#add a file to images called "bg room.jpg/png" to image
+default charName1 = ""
 default adjective1 = ""
 default age = 0
 default number = 0
 default location = ""
+
+#Ritvik
+#someone needs to add a file to images called "char1 pogger.png/jpg"
 default timeOfDay = "afternoon"
 default season = ""
 default relationship = "singular"
 default activity = "present tense"
-
 default charName2 = ""
+
+#Frank
+#someone needs to add a file to images called "char2 pogger.png/jpg"
+
 default emotionNoun = ""
 default emotionNoun2 = ""
 default emotionNoun3 = ""
 default material = ""
 default verb = "pastTense"
-default currentAge = age + number
 
+#Ethan
+#someone needs to add a file to images called "object pogger.png.jpg"
 default relative = ""
 default accident = ""
-
 default excitedReponse = "Write out a full message, instead of just one word, kinda like this message"
-
 default object = ""
 default strongEmotion4 = ""
+
+#Lucas
 default emotionalVerb = "Past tense, ex) liked or disliked"
-
 default response = "Write out a message that a character would say in response to something. Make it long if possible :D"
-
 default emotionalAdjective2 = ""
 default object2 = ""
 default verb2 = "present tense"
 default relationship2 = ""
+
+
+default currentAge = age + number
+
 
 #add an image of the object to the image directory
 #rename it to "object pogger.png" or "object pogger.jpg"
