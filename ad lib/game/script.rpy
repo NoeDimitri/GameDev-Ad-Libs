@@ -35,11 +35,11 @@ default verb = "pastTense"
 
 #Ethan
 #someone needs to add a file to images called "object pogger.png.jpg"
-default relative = ""
-default accident = ""
-default excitedReponse = "Write out a full message, instead of just one word, kinda like this message"
-default object = ""
-default strongEmotion4 = ""
+default relative = "two-hundreth cousin, thrice removed"
+default accident = "ate poisonous mushrooms"
+default excitedReponse = "Meus gatos e cachorros são muito gordo!"
+default object = "aglet"
+default strongEmotion4 = "jubilation"
 
 #Lucas
 default emotionalVerb = "Past tense, ex) liked or disliked"
